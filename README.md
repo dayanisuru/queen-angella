@@ -17,11 +17,11 @@
 <img src=https://i.imgur.com/wvTMw09.jpg>
 </p>
   <p align="center">
-<a href="https://github.com/zim-bot"><img title="Author-DripsMemes" src="https://img.shields.io/badge/Author-zim-bot/zim-bot?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/dayanisuru"><img title="Author-DripsMemes" src="https://img.shields.io/badge/Author-dayanisuru/dayanisuru?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/zim-bot">DripsMemes</a> to make it public
+Project created by <a href="https://github.com/dayanisuru">DripsMemes</a> to make it public
     <br>
        | © |
         Reserved |
@@ -42,12 +42,12 @@ Project created by <a href="https://github.com/zim-bot">DripsMemes</a> to make i
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zim-bot/queen-angella)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dayanisuru/queen-angella)
 
 
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ReinhardTuna/zim-bot?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ReinhardTuna/dayanisuru?v=1)
 <img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
 ### The Hard Method
 
@@ -56,15 +56,15 @@ Project created by <a href="https://github.com/zim-bot">DripsMemes</a> to make i
 ----
 
   <p align="center">
-  <a href="https://github.com/zim-bot/madelinee">
+  <a href="https://github.com/dayanisuru/madelinee">
     
 <a href="https://github.com/Amal-ser/followers">
-<img src="https://img.shields.io/github/repo-size/zim-bot/madeline?color=green&label=Repo%20total%20size&style=plastic">
+<img src="https://img.shields.io/github/repo-size/dayanisuru/madeline?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/zim-bot/followers"
+<a href="https://github.com/dayanisuru/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Amal-ser?color=blue&style=flat-square"></a>
-<a href="https://github.com/zim-bot/madeline/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zim-bot/madeline?color=blue&style=flat-square"></a>
-<a href="https://github.com/zim-bot/madeeline/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Amal-ser/Amalser?color=blue&style=flat-square"></a>
+<a href="https://github.com/dayanisuru/madeline/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/dayanisuru/madeline?color=blue&style=flat-square"></a>
+<a href="https://github.com/dayanisuru/madeeline/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Amal-ser/Amalser?color=blue&style=flat-square"></a>
 <a href="https://github.com/Amal-ser/Amalser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Amal-ser/Amalser?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
